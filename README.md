@@ -27,7 +27,7 @@ I'm a 23 year old Software engineer with a passion for frontend development and 
 - As a kid, I wanted to be a pilot.
 - MAC is definitely my preferred system since switching from windows (although I'm equally as efficient on both).
 
-## Contact
+## 📪 Contact
 
 For a faster response, contact me via email or linkedIn.
 
