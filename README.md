@@ -8,13 +8,15 @@ I'm a 23 year old Software engineer with a passion for frontend development and 
 
 ### 📦 Toolbox
 
-**Frontend Development:** `React` `Typescript` `Javascript` `Material-UI`
+**Frontend Development:** `React` `Typescript` `Javascript` `Material-UI` `Responsive Development` `Accessibility`
 
 **Version Control:** `Git` `Bitbucket` `ADO` `Git Kraken`
 
 **Backend Development**: `PHP` `Node js` 
 
 **Testing:** `Wave` `Postman`, would love to have the opportunity to expand my skills to the likes of jest.
+
+**Small experience with Testing:** `Lighthouse` `What font` `Axe` `NVDA`
 
 **Others:** `Worldpay` `SC Cleared & DBSS` `Drupal` `Scrum Master` `Jira` `Software Support Development` `Sysaid` `Bootstrap`
 
