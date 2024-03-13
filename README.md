@@ -1,1 +1,30 @@
-# .README
+## Hey, I'm Alexander 👋🏽
+
+I'm a 23 year old Software engineer with a passion for frontend development and accessibility.
+
+- Check out my <a href="http://www.alexanderleech.co.uk" target="_blank">Website</a> to learn more about me (This is currently a work in progress).
+- Check out my <a href="https://www.linkedin.com/in/alexander-leech-96889817b/" target="_blank">LinkedIn.</a> 
+
+
+### 📦 Toolbox
+
+**Frontend Development:** `React` `Typescript` `Javascript` `Material-UI`
+
+**Version Control:** `Git` `Bitbucket` `ADO` `Git Kraken`
+
+**Backend Development**: `PHP` `Node js` 
+
+**Testing:** `Wave` `Postman`, would love to have the opportunity to expand my skills to the likes of jest.
+
+**Others:** `Worldpay` `SC Cleared & DBSS` `Drupal` `Scrum Master` `Jira` `Software Support Development` `Sysaid` `Bootstrap`
+
+
+## ？About me
+
+## Contact
+
+For a faster response, contact me via email or linkedIn.
+
+<a href="https://www.linkedin.com/in/alexander-leech-96889817b/" target="_blank">LinkedIn.</a> 
+
+<a href="mailto: alexleech546@gmail.com">Mail to.</a>
